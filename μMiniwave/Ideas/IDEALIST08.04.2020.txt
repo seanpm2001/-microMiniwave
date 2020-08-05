@@ -1,0 +1,92 @@
+
+Experimental idea: μMiniwave (smart microwave OS) (stands for Micro MiniWave, I like mini computers as well as micro computers. This seemed like a cool name)
+* Recipe list
+* Temperature adjustments
+* Cook history, with dates, duration, and item
+* No required Internet connection
+* Pictures of the food
+* Touchscreen
+* Default Modes (Popcorn (regular) Popcorn (a little burnt) soft pretzel (hot) soft pretzel (warm) pizza (hot) pizza (warm) hot chocolate (hot) hot chocolate (warm) soup (hot) soup (warm) defrost)
+* Safety features: smoke detection and fire extinguishing system, time limits
+* μMicroCalc (every OS HAS to have a calculator)
+* Notifications for when your item is done
+* Turn beeping on and off
+* Finish message (custom, default)
+* Wave graph
+* Process manager
+* User system (admin/root (0) professional (1) Teenager/Adult (2) Child/infant (3)
+Professional gets most settings, adults get most settings, except for heavy customizations, child/infant requires permission for all actions
+* System:
+AMD
+Intel (i3 or better)
+RISC
+ARM
+SPARC
+RAM: 64 Megabytes minimum, 512 Megabytes for all features, max: 4 terabytes (complete overkill)
+Storage: 16 GB Min, 16 Terabytes max (HDD) 30 Terabytes max (SSD)
+[][][]
+Models:
+> μWave model 1
+* 16 GB HDD
+* 1 Gigabyte DDR4 RAM
+* Intel i3 processor 512 megahertz
+* Resolution: 512×512
+* Touch screen: False
+* Keyboard: None
+* Keypad: 0-9, A-Z, Full ASCII
+μWave model 2
+* 16 GB SSD
+* 1 Gigabyte DDR4 RAM
+* Intel i3 processor 512 megahertz
+* Resolution: 512×512
+* Touch screen: False
+* Keyboard: None
+* Keypad: 0-9, A-Z, Full ASCII
+μWave model 3
+* 32 GB HDD
+* 2 Gigabytes DDR4 RAM
+* Intel i3 processor 512 megahertz
+* Resolution: 512×512
+* Touch screen: False
+* Keyboard: None
+* Keypad: 0-9, A-Z, Full ASCII
+μWave model 4
+* 32 GB SSD
+* 2 Gigabytes DDR4 RAM
+* Intel i3 processor 512 megahertz
+* Resolution: 512×512
+* Touch screen: False
+* Keyboard: None
+* Keypad: 0-9, A-Z, Full ASCII
+μWave model XK9999
+* 30 TB SSD
+* 2 USB C slots
+* 2 USB 3 slots
+* 4 Terabytes DDR4 RAM
+* AMD Ryzen 6 gigahertz (64 cores, 6 Ghz each,384 Ghz total)
+* Resolution: 7680x7680
+* Touch screen: True
+* Keyboard: None
+* Keypad: 0-9, A-Z, Full ASCII
+[][][]
+* Macros
+* Editor
+* Preferences
+* Oven mode
+* Electronic detection (won't cook if an electronic device is detected inside)
+* Plate cleaning and detection
+* Open Source Microwave OS
+* Screensavers
+* Startup, shutdown, error, and dialog sounds
+* Play music while cooking + Tesla music mode
+* X-Ray mode
+* Wallpapers
+* Display: 64x64/96x64 to 7680x7680/7680x4320
+* Linux Kernel
+* Firefox preinstalled
+* Lights inside the microwave (change color)
+* CLI mode
+* GUI mode
+* Keyboard mode
+* Touch/mouse mode
+* Mouse mode
